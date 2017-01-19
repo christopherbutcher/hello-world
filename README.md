@@ -1,2 +1,2 @@
 # hello-world
-Hello Word program, first project
+Hello Word program.
